@@ -9,7 +9,7 @@
 - **SQL**: Understanding of database management systems.
 
 ## Collaboration
-💞️ I’m willing to learn and collaborate on projects. If you have available opportunities, I’m open to contributing for free.
+💞️ I’m willing to learn and collaborate on projects. If you have available opportunities, I’m open to contributions.
 
 ## Contact
 📫 You can reach me via email at aderohunbi.a@gmail.com or on WhatsApp at +2347081199321.
