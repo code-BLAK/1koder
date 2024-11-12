@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @1koder
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning whatever i lay my hands on (HTML, CSS, JS, React, PHP)
-- 💞️ I’m looking to collaborate on projects if any
-- 📫 How to reach me...aderohunbi.a.a@gmail.com or add +2347081199321 on WhatsApp
+- 👋 Hi, I am code-Blak
+- 👀 A developer
+- 🌱 I have a good understanding on HTML, CSS and my Javascript skills are becoming better.
+- 🌱 I understand PHP and how SQL works too.
+- 💞️ I’m willing to learn and collaborate on projects if you have available [I'll do it free]
+- 📫 How to reach me...aderohunbi.a@gmail.com or add +2347081199321 on WhatsApp
 
 
 <!--
